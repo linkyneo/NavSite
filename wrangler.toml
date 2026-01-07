@@ -8,6 +8,6 @@ GITHUB_CLIENT_ID = "Ov23li6YIJAT92bFNaqQ"
 GITHUB_OWNER = "linkyneo"
 GITHUB_REPO = "NavSite"
 GITHUB_BRANCH = "main"
-NEXTAUTH_URL = "https://nav.newkit.site/api/auth"
-NEXT_PUBLIC_API_URL="https://nav.newkit.site"
+NEXTAUTH_URL = "https://navsite-5z4.pages.dev/api/auth"
+NEXT_PUBLIC_API_URL="https://navsite-5z4.pages.dev/"
 
