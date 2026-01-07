@@ -1,5 +1,5 @@
-name = "navsphere"
-compatibility_date = "2024-11-11"
+name = "navsite"
+compatibility_date = "2026-1-6"
 compatibility_flags = ["nodejs_compat"]
 pages_build_output_dir = ".vercel/output/static"
 
@@ -9,5 +9,5 @@ GITHUB_OWNER = "linkyneo"
 GITHUB_REPO = "NavSite"
 GITHUB_BRANCH = "main"
 NEXTAUTH_URL = "https://navsite-5z4.pages.dev/api/auth"
-NEXT_PUBLIC_API_URL="https://navsite-5z4.pages.dev/"
+NEXT_PUBLIC_API_URL="https://navsite-5z4.pages.dev"
 
