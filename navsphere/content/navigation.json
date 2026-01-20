@@ -1552,6 +1552,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1768919857997",
+      "title": "我的收藏网址",
+      "icon": "Users",
+      "description": "我的收藏网址",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
